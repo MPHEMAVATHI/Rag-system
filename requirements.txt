@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+torch
+biopython
+pandas
+python-dotenv
+truststore
